@@ -6,10 +6,10 @@ Import:
   Your definition:
 
 Clone:
-  Your definition:
+  Your definition: A way to download a Git repository onto your computer so you can work on its files locally.
 
 Fork:
-  Your definition:
+  Your definition: A personal cop of someone else's Github repository that lets you make changes without changing the original project.
 
 Branch:
   Your definition:
@@ -23,4 +23,4 @@ Merge:
 Upstream tracking (git push -u):
   Your definition:
 
-Completed by:
+Completed by: Justys
